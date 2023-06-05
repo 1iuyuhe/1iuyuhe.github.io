@@ -49,24 +49,16 @@
 ## Stats
 
 
-<p align="center">
-    <a href="https://github.com/1iuyuhe"><img align="center" src="https://github-readme-stats.vercel.app/api?username=1iuyuhe&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" alt="LiuYuhe's github stats" /></a>
+<p>
+  <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1iuyuhe&theme=2077" /><img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1iuyuhe&theme=2077" />
 </p>
 
-<p align="center">
-    <a href="https://github.com/1iuyuhe"><img align="center" src="https://github-readme-stats-vpvg.vercel.app/api/top-langs/?username=1iuyuhe&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /></a>
+<p>
+  <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=1iuyuhe&theme=2077" /><img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=1iuyuhe&theme=2077&utcOffset=8" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/1iuyuhe">
-    <img src="https://github-profile-trophy.vercel.app/?username=1iuyuhe&theme=dracula&title=Stars,Followers,Issues,Repositories,Commit,PullRequest" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/1iuyuhe">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=1iuyuhe&theme=onedark&hide_border=true" />
-  </a>
+<p>
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1iuyuhe&theme=github" />
 </p>
 
 <p align="center">
